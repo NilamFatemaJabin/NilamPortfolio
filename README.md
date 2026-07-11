@@ -44,7 +44,22 @@ NilamPortfolio/
 │── resume.jpeg
 │── README.md
 ```
+## Screenshots
 
+### Home
+![Home](Home.png.jpeg)
+
+### About
+![About](About.png.jpeg)
+
+### Skills
+![Skills](Skills.png.jpeg)
+
+### Projects
+![Projects](Projects.png.jpeg)
+
+### Contact
+![Contact](Contact.png.jpeg)
 ## Author
 
 **Nilam Fatema Jabin**
